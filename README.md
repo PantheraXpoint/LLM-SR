@@ -1,21 +1,15 @@
 ## LLM-SR Project
 
-## Overview
-[Add a brief project description here]
-
-## Architecture
-[Consider adding an architecture diagram that shows the workflow of your system]
-
 ## Demo Videos & Results
-Watch our demonstration videos showing the graph connectivity and shortest path solutions:
+Watch our demonstration videos:
 
 <div align="center">
 
 #### Graph Connectivity Solution
-<iframe width="720" height="405" src="https://www.youtube.com/embed/EXe5KNC2mXg" title="Graph Connectivity Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Graph Connectivity Demo](https://img.youtube.com/vi/EXe5KNC2mXg/maxresdefault.jpg)](https://www.youtube.com/watch?v=EXe5KNC2mXg)
 
 #### Shortest Path Solution
-<iframe width="720" height="405" src="https://www.youtube.com/embed/uK1gLkO-NM4" title="Shortest Path Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Shortest Path Demo](https://img.youtube.com/vi/uK1gLkO-NM4/maxresdefault.jpg)](https://www.youtube.com/watch?v=uK1gLkO-NM4)
 
 </div>
 
