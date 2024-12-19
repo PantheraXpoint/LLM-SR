@@ -1,14 +1,14 @@
 ### Demo video for graph connectivity problem:
 <video width="640" height="360" controls>
-  <source src="https://raw.githubusercontent.com/username/repository/main/connectivity.mp4" type="video/mp4">
+  <source src="https://cdn.jsdelivr.net/gh/PantheraXpoint/LLM-SR@main/connectivity.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 [Watch on YouTube](https://www.youtube.com/watch?v=EXe5KNC2mXg)
 
-### Demo video for graph shortest path problem:
+### Demo video for graph connectivity problem:
 <video width="640" height="360" controls>
-  <source src="shortest_path.mp4" type="video/mp4">
+  <source src="https://cdn.jsdelivr.net/gh/PantheraXpoint/LLM-SR@main/shortest_path.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
