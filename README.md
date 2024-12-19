@@ -10,7 +10,7 @@ Watch our demonstration videos:
 
 ### Shortest Path Solution
 
-[![Shortest Path Demo](shortest_path_thumbnail.png)](https://www.youtube.com/watch?v=uK1gLkO-NM4)
+[![Shortest Path Demo](shortest_path_thumbnail.png)](https://www.youtube.com/watch?v=uK1gLKO-NM4)
 
 ### Project Structure
 
