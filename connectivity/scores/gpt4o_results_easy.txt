@@ -1,0 +1,9 @@
+Difficulty level: Easy
+Total indexes: 352
+Less than: 0
+Equal: 352
+Greater than: 0
+Indexes with greater than length: []
+Count of indexes with all false values: 0
+Count of indexes with at least one true value: 352
+Count of indexes with at least one false value: 0

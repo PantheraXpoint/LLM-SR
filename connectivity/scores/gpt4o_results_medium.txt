@@ -1,0 +1,9 @@
+Difficulty level: Medium
+Total indexes: 1200
+Less than: 0
+Equal: 1200
+Greater than: 0
+Indexes with greater than length: []
+Count of indexes with all false values: 0
+Count of indexes with at least one true value: 1200
+Count of indexes with at least one false value: 0

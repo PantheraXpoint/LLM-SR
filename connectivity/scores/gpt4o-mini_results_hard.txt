@@ -1,0 +1,9 @@
+Difficulty level: Hard
+Total indexes: 680
+Less than: 0
+Equal: 680
+Greater than: 0
+Indexes with greater than length: []
+Count of indexes with all false values: 0
+Count of indexes with at least one true value: 680
+Count of indexes with at least one false value: 0

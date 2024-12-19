@@ -1,0 +1,839 @@
+{
+    "180": [
+        "true"
+    ],
+    "181": [
+        "true"
+    ],
+    "182": [
+        "true"
+    ],
+    "183": [
+        "true"
+    ],
+    "184": [
+        "false",
+        "false",
+        "false"
+    ],
+    "185": [
+        "true"
+    ],
+    "186": [
+        "false"
+    ],
+    "187": [
+        "false"
+    ],
+    "188": [
+        "false",
+        "true",
+        "false"
+    ],
+    "189": [
+        "false"
+    ],
+    "190": [
+        "false",
+        "false",
+        "false",
+        "false"
+    ],
+    "191": [
+        "false"
+    ],
+    "192": [
+        "true"
+    ],
+    "193": [
+        "false",
+        "false"
+    ],
+    "194": [
+        "false"
+    ],
+    "195": [
+        "false"
+    ],
+    "196": [
+        "true",
+        "false",
+        "false"
+    ],
+    "197": [
+        "false"
+    ],
+    "198": [
+        "false",
+        "false",
+        "false"
+    ],
+    "199": [
+        "true"
+    ],
+    "200": [
+        "false"
+    ],
+    "201": [
+        "true",
+        "false"
+    ],
+    "202": [
+        "true",
+        "false"
+    ],
+    "203": [
+        "false"
+    ],
+    "204": [
+        "true",
+        "false"
+    ],
+    "205": [
+        "true",
+        "false"
+    ],
+    "206": [
+        "true",
+        "false",
+        "false",
+        "false"
+    ],
+    "207": [
+        "false",
+        "false"
+    ],
+    "208": [
+        "true",
+        "false"
+    ],
+    "209": [
+        "true"
+    ],
+    "210": [
+        "false"
+    ],
+    "211": [
+        "false",
+        "false",
+        "false"
+    ],
+    "212": [
+        "false",
+        "false"
+    ],
+    "213": [
+        "true"
+    ],
+    "214": [
+        "false"
+    ],
+    "215": [
+        "true",
+        "false",
+        "false"
+    ],
+    "216": [
+        "true"
+    ],
+    "217": [
+        "true"
+    ],
+    "218": [
+        "true",
+        "false",
+        "false",
+        "false"
+    ],
+    "219": [
+        "false",
+        "false",
+        "false",
+        "false",
+        "false"
+    ],
+    "220": [
+        "false"
+    ],
+    "221": [
+        "true"
+    ],
+    "222": [
+        "false",
+        "false"
+    ],
+    "223": [
+        "true"
+    ],
+    "224": [
+        "false"
+    ],
+    "225": [
+        "false",
+        "false",
+        "false",
+        "false",
+        "false",
+        "false",
+        "false",
+        "false"
+    ],
+    "226": [
+        "false"
+    ],
+    "227": [
+        "false",
+        "true",
+        "false"
+    ],
+    "228": [
+        "true"
+    ],
+    "229": [
+        "false",
+        "true",
+        "false"
+    ],
+    "230": [
+        "true",
+        "false"
+    ],
+    "231": [
+        "true"
+    ],
+    "232": [
+        "true"
+    ],
+    "233": [
+        "false",
+        "true",
+        "false"
+    ],
+    "234": [
+        "false"
+    ],
+    "235": [
+        "false"
+    ],
+    "236": [
+        "false"
+    ],
+    "237": [
+        "false",
+        "false",
+        "false",
+        "false"
+    ],
+    "238": [
+        "false",
+        "true",
+        "false",
+        "false",
+        "false"
+    ],
+    "239": [
+        "true",
+        "false"
+    ],
+    "240": [
+        "false"
+    ],
+    "241": [
+        "true"
+    ],
+    "242": [
+        "false",
+        "true",
+        "false"
+    ],
+    "243": [
+        "true"
+    ],
+    "244": [
+        "false",
+        "true",
+        "false",
+        "false"
+    ],
+    "245": [
+        "true",
+        "false"
+    ],
+    "246": [
+        "false",
+        "false"
+    ],
+    "247": [
+        "false"
+    ],
+    "248": [
+        "true",
+        "false",
+        "false"
+    ],
+    "249": [
+        "true"
+    ],
+    "250": [
+        "false",
+        "false",
+        "true",
+        "false"
+    ],
+    "251": [
+        "true",
+        "false"
+    ],
+    "252": [
+        "false",
+        "false",
+        "true",
+        "false",
+        "false"
+    ],
+    "253": [
+        "false",
+        "false",
+        "false"
+    ],
+    "254": [
+        "false"
+    ],
+    "255": [
+        "false"
+    ],
+    "256": [
+        "false",
+        "false"
+    ],
+    "257": [
+        "false"
+    ],
+    "258": [
+        "true",
+        "false",
+        "false"
+    ],
+    "259": [
+        "false"
+    ],
+    "260": [
+        "false",
+        "false"
+    ],
+    "261": [
+        "false",
+        "false"
+    ],
+    "262": [
+        "false",
+        "false",
+        "false",
+        "false"
+    ],
+    "263": [
+        "false"
+    ],
+    "264": [
+        "true",
+        "true"
+    ],
+    "265": [
+        "false",
+        "false",
+        "false",
+        "false"
+    ],
+    "266": [
+        "false"
+    ],
+    "267": [
+        "true"
+    ],
+    "268": [
+        "true",
+        "true",
+        "false"
+    ],
+    "269": [
+        "false"
+    ],
+    "270": [
+        "false",
+        "false"
+    ],
+    "271": [
+        "false"
+    ],
+    "272": [
+        "true",
+        "false",
+        "true",
+        "false"
+    ],
+    "273": [
+        "false"
+    ],
+    "274": [
+        "true",
+        "false",
+        "false"
+    ],
+    "275": [
+        "false",
+        "true",
+        "false",
+        "false"
+    ],
+    "276": [
+        "false",
+        "false",
+        "true"
+    ],
+    "277": [
+        "false",
+        "true",
+        "false",
+        "false",
+        "false"
+    ],
+    "278": [
+        "true",
+        "false"
+    ],
+    "279": [
+        "false",
+        "false"
+    ],
+    "280": [
+        "false",
+        "false"
+    ],
+    "281": [
+        "false"
+    ],
+    "282": [
+        "true"
+    ],
+    "283": [
+        "false",
+        "false"
+    ],
+    "284": [
+        "false",
+        "false"
+    ],
+    "285": [
+        "false",
+        "false",
+        "false"
+    ],
+    "286": [
+        "false",
+        "false"
+    ],
+    "287": [
+        "false"
+    ],
+    "288": [
+        "true"
+    ],
+    "289": [
+        "false",
+        "false",
+        "false",
+        "false"
+    ],
+    "290": [
+        "true",
+        "false",
+        "false",
+        "false"
+    ],
+    "291": [
+        "false",
+        "false",
+        "false"
+    ],
+    "292": [
+        "false"
+    ],
+    "293": [
+        "false"
+    ],
+    "294": [
+        "false",
+        "false"
+    ],
+    "295": [
+        "false"
+    ],
+    "296": [
+        "true"
+    ],
+    "297": [
+        "true"
+    ],
+    "298": [
+        "false",
+        "false"
+    ],
+    "299": [
+        "false"
+    ],
+    "300": [
+        "false"
+    ],
+    "301": [
+        "false",
+        "false"
+    ],
+    "302": [
+        "true"
+    ],
+    "303": [
+        "false",
+        "false",
+        "false"
+    ],
+    "304": [
+        "false",
+        "false",
+        "false",
+        "true",
+        "false"
+    ],
+    "305": [
+        "false",
+        "false"
+    ],
+    "306": [
+        "false"
+    ],
+    "307": [
+        "true"
+    ],
+    "308": [
+        "true",
+        "false"
+    ],
+    "309": [
+        "false"
+    ],
+    "310": [
+        "false"
+    ],
+    "311": [
+        "false"
+    ],
+    "312": [
+        "false",
+        "false",
+        "false"
+    ],
+    "313": [
+        "false"
+    ],
+    "314": [
+        "false",
+        "false",
+        "false",
+        "false"
+    ],
+    "315": [
+        "false"
+    ],
+    "316": [
+        "true"
+    ],
+    "317": [
+        "false",
+        "true"
+    ],
+    "318": [
+        "false",
+        "false",
+        "false",
+        "false",
+        "false"
+    ],
+    "319": [
+        "false"
+    ],
+    "320": [
+        "false",
+        "false",
+        "false"
+    ],
+    "321": [
+        "false",
+        "false",
+        "false",
+        "false",
+        "true"
+    ],
+    "322": [
+        "false",
+        "false"
+    ],
+    "323": [
+        "true",
+        "false",
+        "false"
+    ],
+    "324": [
+        "false",
+        "false",
+        "false"
+    ],
+    "325": [
+        "false",
+        "false",
+        "false"
+    ],
+    "326": [
+        "false"
+    ],
+    "327": [
+        "false",
+        "false",
+        "false",
+        "false",
+        "false",
+        "true"
+    ],
+    "328": [
+        "false"
+    ],
+    "329": [
+        "false",
+        "false"
+    ],
+    "330": [
+        "false",
+        "false"
+    ],
+    "331": [
+        "false",
+        "false",
+        "false"
+    ],
+    "332": [
+        "false",
+        "false",
+        "false"
+    ],
+    "333": [
+        "false",
+        "false",
+        "false",
+        "false"
+    ],
+    "334": [
+        "false",
+        "false",
+        "false"
+    ],
+    "335": [
+        "false"
+    ],
+    "336": [
+        "false",
+        "false"
+    ],
+    "337": [
+        "false",
+        "false",
+        "false"
+    ],
+    "338": [
+        "false"
+    ],
+    "339": [
+        "false"
+    ],
+    "340": [
+        "false",
+        "false"
+    ],
+    "341": [
+        "false",
+        "false"
+    ],
+    "342": [
+        "false",
+        "false"
+    ],
+    "343": [
+        "true",
+        "false"
+    ],
+    "344": [
+        "false",
+        "false"
+    ],
+    "345": [
+        "false",
+        "false"
+    ],
+    "346": [
+        "false",
+        "false",
+        "false",
+        "false",
+        "false",
+        "false"
+    ],
+    "347": [
+        "true",
+        "false",
+        "false"
+    ],
+    "348": [
+        "false"
+    ],
+    "349": [
+        "false",
+        "false"
+    ],
+    "350": [
+        "false",
+        "false",
+        "false"
+    ],
+    "351": [
+        "true"
+    ],
+    "352": [
+        "false",
+        "false"
+    ],
+    "353": [
+        "false",
+        "false",
+        "false",
+        "false"
+    ],
+    "354": [
+        "false"
+    ],
+    "355": [
+        "true",
+        "false"
+    ],
+    "356": [
+        "false",
+        "false"
+    ],
+    "357": [
+        "false",
+        "false"
+    ],
+    "358": [
+        "false",
+        "false"
+    ],
+    "359": [
+        "false",
+        "false"
+    ],
+    "360": [
+        "false",
+        "false",
+        "false",
+        "false",
+        "false"
+    ],
+    "361": [
+        "false",
+        "false",
+        "false"
+    ],
+    "362": [
+        "false",
+        "false"
+    ],
+    "363": [
+        "false",
+        "false",
+        "false"
+    ],
+    "364": [
+        "true",
+        "false"
+    ],
+    "365": [
+        "false",
+        "false",
+        "false",
+        "false"
+    ],
+    "366": [
+        "false",
+        "true"
+    ],
+    "367": [
+        "false",
+        "false",
+        "false"
+    ],
+    "368": [
+        "false",
+        "false",
+        "false"
+    ],
+    "369": [
+        "false",
+        "false",
+        "false"
+    ],
+    "370": [
+        "false"
+    ],
+    "371": [
+        "false",
+        "false"
+    ],
+    "372": [
+        "false",
+        "false",
+        "false",
+        "false",
+        "false"
+    ],
+    "373": [
+        "false",
+        "false",
+        "false"
+    ],
+    "374": [
+        "false",
+        "false",
+        "false"
+    ],
+    "375": [
+        "false",
+        "false",
+        "false"
+    ],
+    "376": [
+        "false"
+    ],
+    "377": [
+        "false",
+        "false",
+        "false"
+    ],
+    "378": [
+        "false",
+        "false",
+        "false",
+        "false"
+    ],
+    "379": [
+        "true",
+        "false",
+        "false",
+        "false"
+    ]
+}

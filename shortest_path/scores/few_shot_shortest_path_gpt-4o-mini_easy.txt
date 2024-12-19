@@ -1,0 +1,8 @@
+Total indexes in llm_output: 180
+Less than: 21
+Equal: 83
+Greater than: 0
+Indexes with greater than length: []
+Count of indexes with all false values: 38
+Count of indexes with at least one true value: 142
+Count of indexes with at least one false value: 76

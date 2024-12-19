@@ -1,0 +1,6 @@
+[
+    "Graph: (0,1,2) (0,2,3) (1,3,3) (2,3,2) (2,4,4) (3,5,2) (4,5,3) (4,6,4) (5,6,3) (5,7,1) (6,7,2)\nQ: Give shortest paths from node 0 to node 7. Please provide shortest paths within double curly brackets, where each element should be a shortest path: {{[path 1], [path 2],... [path n]}}\nA: {{[0,1,3,5,7],[0,2,3,5,7]}}",
+    "Graph: (0,1,3) (0,2,3) (1,3,2) (2,4,2) (3,5,2) (4,5,2) (3,6,3) (4,6,3) (5,7,2) (6,7,2) (7,8,1) (6,8,2)\nQ: Give shortest paths from node 0 to node 8.  Please provide shortest paths within double curly brackets, where each element should be a shortest path: {{[path 1], [path 2],... [path n]}}\nA: {{[0,1,3,5,7,8],[0,1,3,6,8],[0,2,4,5,7,8],[0,2,4,6,8]}}",
+    "Graph: (0,1,2) (0,3,4) (1,2,2) (1,4,3) (2,5,3) (3,6,2) (4,5,1) (4,6,4) (5,7,2) (6,8,2) (7,9,3) (8,9,3) (6,7,1)\nQ: Give shortest paths from node 0 to node 9.Please provide shortest paths within double curly brackets, where each element should be a shortest path: {{[path 1], [path 2],... [path n]}}\nA: {{[0,3,6,7,9]}}",
+    "Graph: (0,1,2) (0,2,3) (1,3,3) (2,4,3) (3,5,1) (4,6,2) (5,7,2) (6,7,1) (5,8,4) (6,8,4) (7,9,2) (8,10,3) (9,10,2)\nQ: Give shortest paths from node 0 to node 10. Please provide shortest paths within double curly brackets, where each element should be a shortest path: {{[path 1], [path 2],... [path n]}}\nA: {{[0,1,3,5,7,9,10]}}"
+]
