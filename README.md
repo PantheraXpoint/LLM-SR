@@ -1,17 +1,16 @@
-## LLM-SR Project
+# LLM-SR Project
 
 ## Demo Videos & Results
+
 Watch our demonstration videos:
 
-<div align="center">
+### Graph Connectivity Solution
 
-#### Graph Connectivity Solution
-[![Graph Connectivity Demo](https://img.youtube.com/vi/EXe5KNC2mXg/maxresdefault.jpg)](https://www.youtube.com/watch?v=EXe5KNC2mXg)
+[![Graph Connectivity Demo](connectivity_thumbnail.png)](https://www.youtube.com/watch?v=EXe5KNC2mXg)
 
-#### Shortest Path Solution
-[![Shortest Path Demo](https://img.youtube.com/vi/uK1gLkO-NM4/maxresdefault.jpg)](https://www.youtube.com/watch?v=uK1gLKO-NM4)
+### Shortest Path Solution
 
-</div>
+[![Shortest Path Demo](shortest_path_thumbnail.png)](https://www.youtube.com/watch?v=uK1gLkO-NM4)
 
 ### Project Structure
 
