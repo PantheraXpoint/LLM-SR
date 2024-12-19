@@ -1,6 +1,6 @@
 ### Demo video for graph connectivity problem:
 <video width="640" height="360" controls>
-  <source src="https://cdn.jsdelivr.net/gh/PantheraXpoint/LLM-SR@main/connectivity.mp4" type="video/mp4">
+  <source src="https://cdn.jsdelivr.net/gh/PantheraXpoint/LLM-SR@master/connectivity.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -8,7 +8,7 @@
 
 ### Demo video for graph connectivity problem:
 <video width="640" height="360" controls>
-  <source src="https://cdn.jsdelivr.net/gh/PantheraXpoint/LLM-SR@main/shortest_path.mp4" type="video/mp4">
+  <source src="https://cdn.jsdelivr.net/gh/PantheraXpoint/LLM-SR@master/shortest_path.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
