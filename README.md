@@ -9,7 +9,7 @@ Watch our demonstration videos:
 [![Graph Connectivity Demo](https://img.youtube.com/vi/EXe5KNC2mXg/maxresdefault.jpg)](https://www.youtube.com/watch?v=EXe5KNC2mXg)
 
 #### Shortest Path Solution
-[![Shortest Path Demo](https://img.youtube.com/vi/uK1gLkO-NM4/maxresdefault.jpg)](https://www.youtube.com/watch?v=uK1gLkO-NM4)
+[![Shortest Path Demo](https://img.youtube.com/vi/uK1gLkO-NM4/maxresdefault.jpg)](https://www.youtube.com/watch?v=uK1gLKO-NM4)
 
 </div>
 
