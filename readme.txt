@@ -1,4 +1,11 @@
 ### Demo video for graph connectivity problem:
+<iframe width="640" height="360" src="https://www.youtube.com/embed/EXe5KNC2mXg" title="Graph Connectivity Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Demo video for shortest path problem:
+<iframe width="640" height="360" src="https://www.youtube.com/embed/uK1gLkO-NM4" title="Shortest Path Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### Demo video for graph connectivity problem:
 <video width="640" height="360" controls>
   <source src="https://cdn.jsdelivr.net/gh/PantheraXpoint/LLM-SR@master/connectivity.mp4" type="video/mp4">
   Your browser does not support the video tag.
